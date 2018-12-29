@@ -1,5 +1,6 @@
 # node-cn
-Node.js with cnpm package.  
+Nodejs with cnpm package from npm.taobao.org.  
+  
 [![DockerHub Badge](http://dockeri.co/image/zhangsean/node-cn)](https://hub.docker.com/r/zhangsean/node-cn/)
 
 ### Usage
